@@ -5,8 +5,8 @@ import com.google.gson.annotations.SerializedName;
 public class CryptoModel {
 
     @SerializedName("currency")
-    String currency;
+    public String currency;
 
     @SerializedName("price")
-    String price;
+    public String price;
 }
