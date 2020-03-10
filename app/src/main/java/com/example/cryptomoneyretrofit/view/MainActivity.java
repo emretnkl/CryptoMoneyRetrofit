@@ -1,8 +1,10 @@
-package com.example.cryptomoneyretrofit;
+package com.example.cryptomoneyretrofit.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.cryptomoneyretrofit.R;
 
 public class MainActivity extends AppCompatActivity {
 

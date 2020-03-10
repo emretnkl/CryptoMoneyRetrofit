@@ -1,4 +1,4 @@
-package com.example.cryptomoneyretrofit;
+package com.example.cryptomoneyretrofit.model;
 
 import com.google.gson.annotations.SerializedName;
 
